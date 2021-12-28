@@ -12,7 +12,7 @@
     <artifactId>springboot2-jpa-crud-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot2-jpa-crud-example</name>
-    <description>springboot2-jpa-crud-example</description>
+    <description>springboot2-jpa-crud-example with angular 13 in front-end</description>
     <properties>
         <java.version>11</java.version>
     </properties>
